@@ -1,0 +1,28 @@
+.btn-primary {
+    background-color: #4CAF50;
+    border-color: #4CAF;
+    transition: 0.5s;
+}
+
+.btn-primary:hover {
+    background-color: #4CAF90;
+    color: fuchsia;
+}
+
+.idk-btn {
+    background-color: teal;
+    color: lavender;
+    border: 1px solid hotpink;
+    transition: 0.4s;
+}
+
+.idk-btn:hover {
+    background-color: darkseagreen;
+    color: navy;
+}
+
+.btn-close {
+    background-color: aliceblue;
+}
+
+
